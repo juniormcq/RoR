@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name_team: MyString
+  name_manager: MyString
+  flag_team: MyString
+  uniforme: MyString
+  information: MyString
+
+two:
+  name_team: MyString
+  name_manager: MyString
+  flag_team: MyString
+  uniforme: MyString
+  information: MyString
